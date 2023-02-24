@@ -1,2 +1,2 @@
 # Forearm-amputation-rehabilitation-training-platform-using-EMG-and-camera-myo-realsense-
-这是我的硕士毕业项目，用到myo肌电传感器和realsense摄像头
+这是我的硕士毕业项目，用到myo肌电传感器和realsense摄像头搭建前臂截肢患者的训练康复平台，主要是用断肢的残存肌肉控制屏幕里的假手抓球投球。肌电信号识别是用的SVM分类，识别手臂的算法就是肤色识别加深度信息，然后用细化算法变成线，识别出拐点、再用K均值分出两端的端点。总的来说比较简单直接。现在想想是个半成品。有点后悔没有好好弄。放上来也不知道有没有人看。
